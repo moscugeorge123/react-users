@@ -1,0 +1,9 @@
+.home {
+  width: 80%;
+  border: 1px solid white;
+  padding: 2rem;
+}
+
+.active {
+  color: white;
+}
